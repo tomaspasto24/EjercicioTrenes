@@ -39,7 +39,9 @@ namespace ConsoleApplication
             }
             Console.WriteLine($"Número de trenes: {almacenTrenes2[0].Count}");
 
-
+            /// <summary>
+            /// Punto 8 y 9
+            /// </summary>
             Train t1 = new Train("Last Train To London");
             Train t2 = new Train("Last Train To London");
             Train t3 = new Train("Runaway Train");
